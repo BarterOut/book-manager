@@ -10,6 +10,6 @@ books with `lastRenewed` field more than 6 months old
 field
 
 ## Todo
-- [] Create Heroku Dyno
-- [] Make mongoDB connection
-- [] Create service that finds user email list
+- [ ] Create Heroku Dyno
+- [ ] Make mongoDB connection
+- [ ] Create service that finds user email list
