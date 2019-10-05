@@ -2,3 +2,5 @@
 *.lock
 .env
 *.log
+
+email_list.txt

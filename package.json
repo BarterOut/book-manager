@@ -6,6 +6,9 @@
   "repository": "https://github.com/BarterOut/book-manager.git",
   "author": "Duncan Grubbs <duncan.grubbs@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node update.js"
+  },
   "dependencies": {
     "dotenv": "^8.1.0",
     "jsonwebtoken": "^8.5.1",
